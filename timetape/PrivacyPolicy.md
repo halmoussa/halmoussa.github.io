@@ -1,3 +1,7 @@
+layout: page
+title: "Time Tape Privacy Policy"
+permalink: /timetape-privacy-policy/
+
 # Timetape
 
 Thanks for your interest in downloading and using Timetape.
