@@ -1,4 +1,7 @@
-# Welcome to my page
+# Welcome to Nizar & Hala Almoussa's Page:
 
-I will add a list of recent projects as I am building them.
-Download [Timetape] (<https://play.google.com/store/search?q=timetape&c=apps&hl=en_US&gl=US>) to measure time duration before or after you exciting events.
+Our published projects are below with more to come soon:
+
+Download [Timetape] to measure time duration before or after you exciting events.
+
+[timetape]: https://play.google.com/store/apps/details?id=com.nhalmoussa.timetape&hl=en_US&gl=US
